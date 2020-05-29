@@ -1,0 +1,3 @@
+borrow = 1000
+interest = 1.1
+debt = borrow * interest * interest
