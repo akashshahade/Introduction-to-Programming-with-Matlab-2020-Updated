@@ -1,0 +1,8 @@
+bolt_dist_mtr = 100
+bolt_time_sec = 9.58
+bolt_speed = bolt_dist_mtr / bolt_time_sec
+hundred = bolt_speed * (18/5)
+eliud_time_sec = 7299
+eliud_dist_mt = 42195
+eliud_speed = eliud_dist_mt / eliud_time_sec
+marathon = eliud_speed * (18/5)
