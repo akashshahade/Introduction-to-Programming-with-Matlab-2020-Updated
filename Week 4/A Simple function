@@ -1,0 +1,6 @@
+function area = tri_area(b,h)
+area = 0.5*b*h
+end
+
+%Write a function called tri_area that returns the area of triangle with base b and height h,
+%where b and h are input arguments of the function in that order.
